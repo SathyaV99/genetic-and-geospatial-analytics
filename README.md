@@ -1,4 +1,4 @@
-# Genomic and Geographic Adaptations to Climate Change: A Comparative Study of Wild Yak, Takin, and High-Altitude Bovids 
+# Predictive Climate & Geospatial Analytics for Wildlife Habitat Shifts of Wild Yak, Takin, and High-Altitude Bovids 
 
 ## Wild Yak faces substantial habitat loss and altitudinal displacement by 2050, driven by climate change and limited adaptive genomic traits.
 
