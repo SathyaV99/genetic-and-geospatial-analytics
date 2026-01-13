@@ -1,5 +1,7 @@
 # Predictive Climate & Geospatial Analytics for Wildlife Habitat Shifts of Wild Yak, Takin, and High-Altitude Bovids 
 
+## p.s. we're approaching doomsday with how the world is going currently!
+
 ## Wild Yak faces substantial habitat loss and altitudinal displacement by 2050, driven by climate change and limited adaptive genomic traits.
 
 ### Computationally intensive analyses like InterProScan and BLAST averaged 2–4 days each for a single species to complete!
